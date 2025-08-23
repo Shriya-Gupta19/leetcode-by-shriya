@@ -9,7 +9,8 @@ public:
             for (int j = 0; j < m; ++j)
                 pre[i+1][j+1] = pre[i+1][j] + pre[i][j+1] - pre[i][j] + grid[i][j];
 
-        auto countOnes = [&](int r1, int r2, int c1, int c2) -> int {
+        auto countOnes = [&](int r1, int
+            r2, int c1, int c2) -> int {
             if (r1 > r2 || c1 > c2) return 0;
             return pre[r2+1][c2+1] - pre[r1][c2+1] - pre[r2+1][c1] + pre[r1][c1];
         };
