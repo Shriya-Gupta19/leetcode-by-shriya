@@ -15,6 +15,7 @@ public:
             else{
                 if(j==row-1) k++;
                 else if(k==0) j++;
+                
                 else j++,k--;
             }
             i++;
