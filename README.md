@@ -12,6 +12,9 @@
 |3195|[Find The Minimum Area To Cover All Ones 1](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/)|[Solution.cpp](3195_FindTheMinimumAreaToCoverAllOnes1/solution.cpp)|Medium|
 |3197|[Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/)|[Solution.cpp](3197_MinimumAreatoCoverAllOnesII/solution.cpp)|Hard|
 |3446|[Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/)|[Solution.cpp](3446_SortMatrixbyDiagonals/solution.cpp)|Medium|
+|3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)|[Solution.cpp](3516_FindClosestPerson/solution.cpp)|Easy|
+
+
 
 
 
