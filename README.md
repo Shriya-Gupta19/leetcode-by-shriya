@@ -4,6 +4,7 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution.cpp](36_ValidSudoku/solution.cpp)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution.cpp](37_SudokuSolver/solution.cpp)|Hard|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution.cpp](498_DiagonalTraverse/solution.cpp)|Medium|
+|1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|[Solution.cpp](1317_ConvertIntegertotheSumofTwoNoZeroIntegers/solution.cpp)|Easy|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution.cpp](1493_LongestSubarrayof1'sAfterDeletingOneElement/solution.cpp)|Medium|
 |1504|[Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)|[Solution.cpp](1504_CountSubmatricesWithAllOnes/solution.cpp)|Medium|
 |3000|[Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/)|[Solution.cpp](3000_MaximumAreaofLongestDiagonalRectangle/solution.cpp)|Easy|
@@ -14,6 +15,7 @@
 |3446|[Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/)|[Solution.cpp](3446_SortMatrixbyDiagonals/solution.cpp)|Medium|
 |3495|[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)|[Solution.cpp](3495_MinimumOperationstoMakeArrayElementsZero/solution.cpp)|Hard|
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)|[Solution.cpp](3516_FindClosestPerson/solution.cpp)|Easy|
+
 
 
 
