@@ -1,5 +1,5 @@
 #LEETCODE PROBLEM USING CPP
-|Problem number| Leetcode  Question | Solution | Difficulty|
+|Problem number| Leetcode  Questions | Solution | Difficulty|
 |--------------|-------------------|----------|-----------|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution.cpp](36_ValidSudoku/solution.cpp)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution.cpp](37_SudokuSolver/solution.cpp)|Hard|
@@ -8,6 +8,7 @@
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution.cpp](1493_LongestSubarrayof1'sAfterDeletingOneElement/solution.cpp)|Medium|
 |1504|[Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)|[Solution.cpp](1504_CountSubmatricesWithAllOnes/solution.cpp)|Medium|
 |2327|[Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)|[Solution.cpp](2327_NumberofPeopleAwareofaSecret/solution.cpp)|Medium|
+|2785|[Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)|[Solution.cpp](2785_SortVowelsinaString/solution.cpp)|Medium|
 |3000|[Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/)|[Solution.cpp](3000_MaximumAreaofLongestDiagonalRectangle/solution.cpp)|Easy|
 |3021|[Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)|[Solution.cpp](3021_AliceandBobPlayingFlowerGame/solution.cpp)|Medium|
 |3025|[Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/)|[Solution.cpp](3025_FindtheNumberofWaystoPlacePeopleI/solution.cpp)|Medium|
@@ -16,6 +17,7 @@
 |3446|[Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/)|[Solution.cpp](3446_SortMatrixbyDiagonals/solution.cpp)|Medium|
 |3495|[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)|[Solution.cpp](3495_MinimumOperationstoMakeArrayElementsZero/solution.cpp)|Hard|
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)|[Solution.cpp](3516_FindClosestPerson/solution.cpp)|Easy|
+
 
 
 
