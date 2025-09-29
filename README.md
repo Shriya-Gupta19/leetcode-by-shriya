@@ -7,6 +7,7 @@
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Solution.cpp](165_CompareVersionNumbers/solution.cpp)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution.cpp](498_DiagonalTraverse/solution.cpp)|Medium|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Solution.cpp](611_ValidTriangleNumber/solution.cpp)|Medium|
+|1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Solution.cpp](1039_MinimumScoreTriangulationofPolygon/solution.cpp)|Medium|
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|[Solution.cpp](1317_ConvertIntegertotheSumofTwoNoZeroIntegers/solution.cpp)|Easy|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution.cpp](1493_LongestSubarrayof1'sAfterDeletingOneElement/solution.cpp)|Medium|
 |1504|[Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)|[Solution.cpp](1504_CountSubmatricesWithAllOnes/solution.cpp)|Medium|
@@ -22,6 +23,7 @@
 |3446|[Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/)|[Solution.cpp](3446_SortMatrixbyDiagonals/solution.cpp)|Medium|
 |3495|[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)|[Solution.cpp](3495_MinimumOperationstoMakeArrayElementsZero/solution.cpp)|Hard|
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)|[Solution.cpp](3516_FindClosestPerson/solution.cpp)|Easy|
+
 
 
 
