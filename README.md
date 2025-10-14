@@ -1,4 +1,3 @@
-#LEETCODE PROBLEM USING CPP
 |Problem number| Leetcode  Questions | Solution | Difficulty|
 |--------------|-------------------|----------|-----------|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution.cpp](36_ValidSudoku/solution.cpp)|Medium|
@@ -19,37 +18,10 @@
 |3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)|[Solution.cpp](3005_CountElementsWithMaximumFrequency/solution.cpp)|Easy|
 |3021|[Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)|[Solution.cpp](3021_AliceandBobPlayingFlowerGame/solution.cpp)|Medium|
 |3025|[Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/)|[Solution.cpp](3025_FindtheNumberofWaystoPlacePeopleI/solution.cpp)|Medium|
-|3195|[Find The Minimum Area To Cover All Ones 1](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/)|[Solution.cpp](3195_FindTheMinimumAreaToCoverAllOnes1/solution.cpp)|Medium|
-|3197|[Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/)|[Solution.cpp](3197_MinimumAreatoCoverAllOnesII/solution.cpp)|Hard|
+|3195|[Find The Minimum Area To Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/)|[Solution.cpp](3195_FindTheMinimumAreaToCoverAllOnesI/solution.cpp)|Medium|
+|3197|[Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/)|[Solution.cpp](3197_FindTheMinimumAreatoCoverAllOnesII/solution.cpp)|Hard|
 |3349|[Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/description/)|[Solution.cpp](3349_AdjacentIncreasingSubarraysDetectionI/solution.cpp)|Easy|
 |3446|[Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/)|[Solution.cpp](3446_SortMatrixbyDiagonals/solution.cpp)|Medium|
 |3495|[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)|[Solution.cpp](3495_MinimumOperationstoMakeArrayElementsZero/solution.cpp)|Hard|
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)|[Solution.cpp](3516_FindClosestPerson/solution.cpp)|Easy|
-|3539|[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)|[Solution.cpp](3539._FindSumofArrayProductofMagicalSequences/solution.cpp)|Hard|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|3539|[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)|[Solution.cpp](3539_FindSumofArrayProductofMagicalSequences/solution.cpp)|Hard|
