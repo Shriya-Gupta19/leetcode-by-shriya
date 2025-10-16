@@ -13,6 +13,7 @@
 |2197|[Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)|[Solution.cpp](2197_ReplaceNonCoprimeNumbersinArray/solution.cpp)|Hard|
 |2273|[Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/)|[Solution.cpp](2273_FindResultantArrayAfterRemovingAnagrams/solution.cpp)|Easy|
 |2327|[Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)|[Solution.cpp](2327_NumberofPeopleAwareofaSecret/solution.cpp)|Medium|
+|2598|[Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/description/)|[Solution.cpp](2598_SmallestMissingNon-negativeIntegerAfterOperations/solution.cpp)|Medium|
 |2785|[Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)|[Solution.cpp](2785_SortVowelsinaString/solution.cpp)|Medium|
 |3000|[Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/)|[Solution.cpp](3000_MaximumAreaofLongestDiagonalRectangle/solution.cpp)|Easy|
 |3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)|[Solution.cpp](3005_CountElementsWithMaximumFrequency/solution.cpp)|Easy|
@@ -25,3 +26,4 @@
 |3495|[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)|[Solution.cpp](3495_MinimumOperationstoMakeArrayElementsZero/solution.cpp)|Hard|
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)|[Solution.cpp](3516_FindClosestPerson/solution.cpp)|Easy|
 |3539|[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)|[Solution.cpp](3539_FindSumofArrayProductofMagicalSequences/solution.cpp)|Hard|
+
