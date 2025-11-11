@@ -4,6 +4,7 @@
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution.cpp](37_SudokuSolver/solution.cpp)|Hard|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Solution.cpp](120_Triangle/solution.cpp)|Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Solution.cpp](165_CompareVersionNumbers/solution.cpp)|Medium|
+|474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)|[Solution.cpp](474_OnesandZeroes/solution.cpp)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution.cpp](498_DiagonalTraverse/solution.cpp)|Medium|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Solution.cpp](611_ValidTriangleNumber/solution.cpp)|Medium|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Solution.cpp](1039_MinimumScoreTriangulationofPolygon/solution.cpp)|Medium|
@@ -26,4 +27,5 @@
 |3495|[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)|[Solution.cpp](3495_MinimumOperationstoMakeArrayElementsZero/solution.cpp)|Hard|
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)|[Solution.cpp](3516_FindClosestPerson/solution.cpp)|Easy|
 |3539|[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)|[Solution.cpp](3539_FindSumofArrayProductofMagicalSequences/solution.cpp)|Hard|
+
 
