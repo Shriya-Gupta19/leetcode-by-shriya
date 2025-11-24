@@ -9,6 +9,7 @@
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Solution.cpp](611_ValidTriangleNumber/solution.cpp)|Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)|[Solution.cpp](717_1bitand2bitCharacters/solution.cpp)|Easy|
 |757|[Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/description/)|[Solution.cpp](757_SetIntersectionSizeAtLeastTwo/solution.cpp)|Hard|
+|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)[Solution.cpp](1018_BinaryPrefixDivisibleBy5/solution.cpp)|Easy|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Solution.cpp](1039_MinimumScoreTriangulationofPolygon/solution.cpp)|Medium|
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|[Solution.cpp](1317_ConvertIntegertotheSumofTwoNoZeroIntegers/solution.cpp)|Easy|
 |1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/)|[Solution.cpp](1437_CheckIfAll1'sAreatLeastLengthKPlacesAway/solution.cpp)|Easy|
@@ -32,6 +33,7 @@
 |3495|[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)|[Solution.cpp](3495_MinimumOperationstoMakeArrayElementsZero/solution.cpp)|Hard|
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)|[Solution.cpp](3516_FindClosestPerson/solution.cpp)|Easy|
 |3539|[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)|[Solution.cpp](3539_FindSumofArrayProductofMagicalSequences/solution.cpp)|Hard|
+
 
 
 
