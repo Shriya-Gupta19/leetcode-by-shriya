@@ -22,6 +22,7 @@
 |2598|[Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/description/)|[Solution.cpp](2598_SmallestMissingNon-negativeIntegerAfterOperations/solution.cpp)|Medium|
 |2654|[Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/description/)|[Solution.cpp](2654_MinimumNumberofOperationstoMakeAllArrayElementsEqualto1/solution.cpp)|Medium|
 |2785|[Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)|[Solution.cpp](2785_SortVowelsinaString/solution.cpp)|Medium|
+|2872|[Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/)|[Solution.cpp](2872_MaximumNumberofKDivisibleComponents)|Hard|
 |3000|[Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/)|[Solution.cpp](3000_MaximumAreaofLongestDiagonalRectangle/solution.cpp)|Easy|
 |3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)|[Solution.cpp](3005_CountElementsWithMaximumFrequency/solution.cpp)|Easy|
 |3021|[Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)|[Solution.cpp](3021_AliceandBobPlayingFlowerGame/solution.cpp)|Medium|
@@ -34,6 +35,7 @@
 |3495|[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)|[Solution.cpp](3495_MinimumOperationstoMakeArrayElementsZero/solution.cpp)|Hard|
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)|[Solution.cpp](3516_FindClosestPerson/solution.cpp)|Easy|
 |3539|[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)|[Solution.cpp](3539_FindSumofArrayProductofMagicalSequences/solution.cpp)|Hard|
+
 
 
 
