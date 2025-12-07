@@ -16,6 +16,7 @@
 |1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/)|[Solution.cpp](1437_CheckIfAll1'sAreatLeastLengthKPlacesAway/solution.cpp)|Easy|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution.cpp](1493_LongestSubarrayof1'sAfterDeletingOneElement/solution.cpp)|Medium|
 |1504|[Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/)|[Solution.cpp](1504_CountSubmatricesWithAllOnes/solution.cpp)|Medium|
+|1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)|[Solution.cpp](1523_CountOddNumbersinanIntervalRange/solution.cpp)|Easy|
 |2197|[Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)|[Solution.cpp](2197_ReplaceNonCoprimeNumbersinArray/solution.cpp)|Hard|
 |2273|[Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/)|[Solution.cpp](2273_FindResultantArrayAfterRemovingAnagrams/solution.cpp)|Easy|
 |2327|[Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)|[Solution.cpp](2327_NumberofPeopleAwareofaSecret/solution.cpp)|Medium|
@@ -36,6 +37,7 @@
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)|[Solution.cpp](3516_FindClosestPerson/solution.cpp)|Easy|
 |3539|[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)|[Solution.cpp](3539_FindSumofArrayProductofMagicalSequences/solution.cpp)|Hard|
 |3578|[Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/)|[Solution.cpp](3578_CountPartitionsWithMaxMinDifferenceatMostK/solution.cpp)|Medium|
+
 
 
 
