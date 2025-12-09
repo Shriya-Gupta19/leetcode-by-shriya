@@ -38,6 +38,9 @@
 |3516|[Find Closest Person](https://leetcode.com/problems/find-closest-person/description/)|[Solution.cpp](3516_FindClosestPerson/solution.cpp)|Easy|
 |3539|[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)|[Solution.cpp](3539_FindSumofArrayProductofMagicalSequences/solution.cpp)|Hard|
 |3578|[Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/)|[Solution.cpp](3578_CountPartitionsWithMaxMinDifferenceatMostK/solution.cpp)|Medium|
+|3583|[Count Special Triplets](https://leetcode.com/problems/count-special-triplets/description/)|[Solution.cpp](3583_CountSpecialTriplets/solution.cpp)|Medium|
+
+
 
 
 
