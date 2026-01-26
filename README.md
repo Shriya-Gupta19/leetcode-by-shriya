@@ -12,6 +12,7 @@
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/)|[Solution.cpp](1015_SmallestIntegerDivisiblebyK/solution.cpp)|Medium|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)|[Solution.cpp](1018_BinaryPrefixDivisibleBy5/solution.cpp)|Easy|
 |1039|[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)|[Solution.cpp](1039_MinimumScoreTriangulationofPolygon/solution.cpp)|Medium|
+|1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Solution.cpp](1200_MinimumAbsoluteDifference/solution.cpp)|Easy|
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|[Solution.cpp](1317_ConvertIntegertotheSumofTwoNoZeroIntegers/solution.cpp)|Easy|
 |1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/)|[Solution.cpp](1437_CheckIfAll1'sAreatLeastLengthKPlacesAway/solution.cpp)|Easy|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution.cpp](1493_LongestSubarrayof1'sAfterDeletingOneElement/solution.cpp)|Medium|
@@ -39,6 +40,7 @@
 |3539|[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)|[Solution.cpp](3539_FindSumofArrayProductofMagicalSequences/solution.cpp)|Hard|
 |3578|[Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/)|[Solution.cpp](3578_CountPartitionsWithMaxMinDifferenceatMostK/solution.cpp)|Medium|
 |3583|[Count Special Triplets](https://leetcode.com/problems/count-special-triplets/description/)|[Solution.cpp](3583_CountSpecialTriplets/solution.cpp)|Medium|
+
 
 
 
