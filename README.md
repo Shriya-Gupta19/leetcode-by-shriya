@@ -8,6 +8,7 @@
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution.cpp](498_DiagonalTraverse/solution.cpp)|Medium|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Solution.cpp](611_ValidTriangleNumber/solution.cpp)|Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)|[Solution.cpp](717_1bitand2bitCharacters/solution.cpp)|Easy|
+|744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)|[Solution.cpp](744_FindSmallestLetterGreaterThanTarget/solution.cpp)|Easy|
 |757|[Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/description/)|[Solution.cpp](757_SetIntersectionSizeAtLeastTwo/solution.cpp)|Hard|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/)|[Solution.cpp](1015_SmallestIntegerDivisiblebyK/solution.cpp)|Medium|
 |1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/)|[Solution.cpp](1018_BinaryPrefixDivisibleBy5/solution.cpp)|Easy|
@@ -40,6 +41,7 @@
 |3539|[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)|[Solution.cpp](3539_FindSumofArrayProductofMagicalSequences/solution.cpp)|Hard|
 |3578|[Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/)|[Solution.cpp](3578_CountPartitionsWithMaxMinDifferenceatMostK/solution.cpp)|Medium|
 |3583|[Count Special Triplets](https://leetcode.com/problems/count-special-triplets/description/)|[Solution.cpp](3583_CountSpecialTriplets/solution.cpp)|Medium|
+
 
 
 
