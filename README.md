@@ -2,6 +2,7 @@
 |--------------|-------------------|----------|-----------|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution.cpp](36_ValidSudoku/solution.cpp)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution.cpp](37_SudokuSolver/solution.cpp)|Hard|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)|[Solution.cpp](110_BalancedBinaryTree/solution.cpp)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Solution.cpp](120_Triangle/solution.cpp)|Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Solution.cpp](165_CompareVersionNumbers/solution.cpp)|Medium|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)|[Solution.cpp](474_OnesandZeroes/solution.cpp)|Medium|
@@ -41,6 +42,7 @@
 |3539|[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)|[Solution.cpp](3539_FindSumofArrayProductofMagicalSequences/solution.cpp)|Hard|
 |3578|[Count Partitions With Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/)|[Solution.cpp](3578_CountPartitionsWithMaxMinDifferenceatMostK/solution.cpp)|Medium|
 |3583|[Count Special Triplets](https://leetcode.com/problems/count-special-triplets/description/)|[Solution.cpp](3583_CountSpecialTriplets/solution.cpp)|Medium|
+
 
 
 
