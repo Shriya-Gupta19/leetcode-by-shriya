@@ -1,26 +1,20 @@
 class Solution {
 public:
-    vector<string> readBinaryWatch(int k) {
-        if (k == 0) return {"0:00"};
-        if (k > 8) return {};
-        vector<string> res;
-        int q = (1 << k) - 1;
-
-        while (q < (1 << 10)) {
-            string time = isValid(q);
-            if (!time.empty()) res.push_back(time);
-            int r = q & -q;
-            int n = q + r;
-            q = (((n ^ q) >> 2) / r) | n;
+    vector<string> readBinaryWatch(int turnedOn) {
+        vector<string> result;   
+        for (int hour = 0; hour < 12; hour++) {
+            for (int minute = 0; minute < 60; minute++) {             
+                if (__builtin_popcount(hour) + __builtin_popcount(minute) == turnedOn) {
+                    string time = to_string(hour) + ":";    
+                    if (minute < 10) {
+                        time += "0";
+                    }
+                    time += to_string(minute);         
+                    result.push_back(time);
+                }
+            }
         }
-        return res;
-    }
-
-    string isValid(int q) {
-        int hour = q >> 6;
-        int min = q & 63;
-        if (hour >= 12 || min >= 60) return "";
-        //return format("{}:{:02}", hour, min);
-        return to_string(hour) + ":" + (min < 10 ? "0" : "") + to_string(min);
+        
+        return result;
     }
 };
