@@ -1,10 +1,10 @@
 class Solution {
 public:
     int minOperations(string s) {
-        int count = 0, n = s.length();
-        for (int i = 0; i < n; i++)
-            count += (s[i] ^ i) & 1;
-          
-        return min(count, n - count);
+        int n, c = 0, j = 0;
+        for(n = 0; n < s.size(); n++, j ^= 1) {
+            if(s[n] - '0' == j) c++;
+        }
+        return min(c, n - c);
     }
 };
