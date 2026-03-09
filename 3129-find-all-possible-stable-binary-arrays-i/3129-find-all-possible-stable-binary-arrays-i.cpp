@@ -1,38 +1,27 @@
 class Solution {
 public:
-    const int MOD = 1e9 + 7;
-    int dp[201][201][2][201];
-    int solve(int z, int o, int last, int cnt, int limit) {
-        if (z == 0 && o == 0) return 1;
-        if (dp[z][o][last][cnt] != -1)
-            return dp[z][o][last][cnt];
-        long long ans = 0;
-        // place 0
-        if (z > 0) {
-            if (last != 0)
-                ans += solve(z - 1, o, 0, 1, limit);
-            else if (cnt < limit)
-                ans += solve(z - 1, o, 0, cnt + 1, limit);
-        }
-
-        // place 1
-        if (o > 0) {
-            if (last != 1)
-                ans += solve(z, o - 1, 1, 1, limit);
-            else if (cnt < limit)
-                ans += solve(z, o - 1, 1, cnt + 1, limit);
-        }
-
-        return dp[z][o][last][cnt] = ans % MOD;
-    }
     int numberOfStableArrays(int zero, int one, int limit) {
-        memset(dp, -1, sizeof(dp));
-        long long ans = 0;
-        if (zero > 0)
-            ans += solve(zero - 1, one, 0, 1, limit);
+        const int MOD = 1e9 + 7;
+        vector<vector<long long>> dp(zero + 1, vector<long long>(one + 1, 0));
+        dp[0][0] = 1;
+        for (int i = 0; i <= zero; i++) {
+            for (int j = 0; j <= one; j++) {
 
-        if (one > 0)
-            ans += solve(zero, one - 1, 1, 1, limit);
-        return ans % MOD;
+                if (i > 0) {
+                    dp[i][j] = (dp[i][j] + dp[i-1][j]) % MOD;
+
+                    if (i > limit)
+                        dp[i][j] = (dp[i][j] - dp[i-limit-1][j] + MOD) % MOD;
+                }
+
+                if (j > 0) {
+                    dp[i][j] = (dp[i][j] + dp[i][j-1]) % MOD;
+
+                    if (j > limit)
+                        dp[i][j] = (dp[i][j] - dp[i][j-limit-1] + MOD) % MOD;
+                }
+            }
+        }
+        return dp[zero][one];
     }
 };
