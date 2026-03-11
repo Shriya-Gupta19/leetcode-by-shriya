@@ -1,7 +1,13 @@
 class Solution {
 public:
-    int bitwiseComplement(unsigned n) {
+    int bitwiseComplement(int n) {
         if (n == 0) return 1;
-        return ~n & (1 << bit_width(n)) - 1;
+        int mask = 0;
+        int temp = n;
+        while (temp > 0) {
+            mask = (mask << 1) | 1;
+            temp >>= 1;
+        }
+        return mask ^ n;
     }
 };
