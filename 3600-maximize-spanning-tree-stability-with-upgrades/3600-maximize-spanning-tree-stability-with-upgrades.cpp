@@ -1,100 +1,89 @@
-class DSU {
-public:
-    vector<int> parent, rankv;
-    int components;
-
-    DSU(int n) {
-        parent.resize(n);
-        rankv.assign(n, 0);
-        iota(parent.begin(), parent.end(), 0);
-        components = n;
-    }
-
-    int find(int x) {
-        if (parent[x] != x) parent[x] = find(parent[x]);
-        return parent[x];
-    }
-
-    bool unite(int a, int b) {
-        a = find(a);
-        b = find(b);
-
-        if (a == b) return false;
-
-        if (rankv[a] < rankv[b]) swap(a, b);
-        parent[b] = a;
-        if (rankv[a] == rankv[b]) rankv[a]++;
-
-        components--;
-        return true;
-    }
-};
-
 class Solution {
 public:
-    bool canAchieve(int n, vector<vector<int>>& edges, int k, int x) {
-        DSU dsu(n);
+    int components;
+    vector<int> parent, size;
 
-        // 1. Mandatory edges must be included
-        for (auto &e : edges) {
-            int u = e[0], v = e[1], s = e[2], must = e[3];
+    int Union(int u, int v){
+        int pu = findParent(u);
+        int pv = findParent(v);
 
-            if (must == 1) {
-                if (s < x) return false;          // mandatory edge too weak
-                if (!dsu.unite(u, v)) return false; // mandatory cycle
-            }
+        if(pu == pv) return 0;
+
+        components--;
+        if(size[pu] > size[pv]){
+            size[pu] += size[pv];
+            parent[pv] = pu;
         }
-
-        // 2. Use all free optional edges
-        for (auto &e : edges) {
-            int u = e[0], v = e[1], s = e[2], must = e[3];
-
-            if (must == 0 && s >= x) {
-                dsu.unite(u, v);
-            }
+        else{
+            size[pv] += size[pu];
+            parent[pu] = pv;
         }
+        return 1;
+    }
 
-        // 3. Use upgradeable optional edges if needed
-        int usedUpgrades = 0;
-
-        for (auto &e : edges) {
-            int u = e[0], v = e[1], s = e[2], must = e[3];
-
-            if (must == 0 && s < x && 2 * s >= x) {
-                if (dsu.unite(u, v)) {
-                    usedUpgrades++;
-                    if (usedUpgrades > k) return false;
-                }
-            }
-        }
-
-        return dsu.components == 1;
+    int findParent(int node){
+        if(parent[node] == node) return node;
+        return parent[node] = findParent(parent[node]);
     }
 
     int maxStability(int n, vector<vector<int>>& edges, int k) {
-        // Early check: mandatory edges alone must not form a cycle
-        {
-            DSU dsu(n);
-            for (auto &e : edges) {
-                if (e[3] == 1) {
-                    if (!dsu.unite(e[0], e[1])) return -1;
-                }
+        components = n;
+        parent.resize(n);
+        size.resize(n, 1);
+
+        for(int i = 0; i < n; i++){
+            parent[i] = i;
+        }
+
+        vector<vector<int>> must, flex;
+
+        for(auto &it : edges){
+            if(it[3] == 1) must.push_back(it);
+            else flex.push_back(it);
+        }
+
+        int mini = INT_MAX;
+
+        for(auto &it : must){
+            int u = it[0];
+            int v = it[1];
+            int w = it[2];
+
+            mini = min(mini, w);
+
+            if(!Union(u, v)){
+                return -1;
             }
         }
 
-        int low = 1, high = 200000, ans = -1;
+        sort(flex.begin(), flex.end(), [](vector<int>& a, vector<int>& b){
+            return a[2] > b[2];
+        });
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
+        priority_queue<int, vector<int>, greater<int>> pq;
 
-            if (canAchieve(n, edges, k, mid)) {
-                ans = mid;
-                low = mid + 1;
-            } else {
-                high = mid - 1;
+        for(auto &it : flex){
+            int u = it[0];
+            int v = it[1];
+            int w = it[2];
+
+            if(Union(u, v)){
+                pq.push(w);
             }
         }
 
-        return ans;
+        while(k-- && !pq.empty()){
+            int x = pq.top();
+            pq.pop();
+            mini = min(mini, 2 * x);
+        }
+
+        if(components != 1) return -1;
+
+        if(!pq.empty()){
+            return min(mini, pq.top());
+        }
+
+        return mini;
     }
 };
