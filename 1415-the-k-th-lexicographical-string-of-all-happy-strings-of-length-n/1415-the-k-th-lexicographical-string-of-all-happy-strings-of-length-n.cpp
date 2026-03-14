@@ -1,28 +1,24 @@
 class Solution {
 public:
-    string getHappyString(int n, int k) {
-
-        int total = 3 * (1<<(n-1));
-        if(k>total) return "";
-
-        k--;
-        string res="";
-        char last='\0';
-
-        for(int pos=0;pos<n;pos++){
-
-            int branch=1<<(n-pos-1);
-
-            vector<char> choices;
-            for(char c:{'a','b','c'})
-                if(c!=last) choices.push_back(c);
-
-            int idx=k/branch;
-            res+=choices[idx];
-            last=choices[idx];
-            k%=branch;
+    string ans = "";
+    
+    void solve(int n, int &k, string curr) {
+        if (curr.size() == n) {
+            k--;
+            if (k == 0) ans = curr;
+            return;
         }
 
-        return res;
+        for (char c : {'a','b','c'}) {
+            if (!curr.empty() && curr.back() == c) continue;
+            if (ans != "") return;
+            solve(n, k, curr + c);
+        }
+    }
+
+    string getHappyString(int n, int k) {
+        string curr = "";
+        solve(n, k, curr);
+        return ans;
     }
 };
