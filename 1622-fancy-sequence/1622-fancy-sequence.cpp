@@ -1,50 +1,40 @@
 class Fancy {
-private:
-    const int mod = 1e9 + 7;
-    vector<long long> val;
-    long long a, b;
-    long long modPow(long long x, long long y, long long mod) {
+public:
+    const long long mod = 1e9 + 7;
+    vector<long long> arr;
+    long long mul = 1;
+    long long add = 0;
+
+    long long modInverse(long long x) {
+        long long power = mod - 2;
         long long res = 1;
-        x = x % mod;
-        while (y > 0) {
-            if (y % 2 == 1) {
-                res = (res * x) % mod;
-            }
-            y = y / 2;
+        while(power) {
+            if(power & 1) res = (res * x) % mod;
             x = (x * x) % mod;
+            power >>= 1;
         }
         return res;
     }
-public:
-    Fancy() : a(1), b(0) {
-    }
-    
+
+    Fancy() {}
+
     void append(int val) {
-        long long x = (val - b + mod) % mod;
-        this->val.push_back((x * modPow(a, mod - 2, mod)) % mod);
+        long long x = ((val - add) % mod + mod) % mod;
+        x = (x * modInverse(mul)) % mod;
+        arr.push_back(x);
     }
-    
+
     void addAll(int inc) {
-        b = (b + inc) % mod;
+        add = (add + inc) % mod;
     }
-    
+
     void multAll(int m) {
-        a = (a * m) % mod;
-        b = (b * m) % mod;
+        mul = (mul * m) % mod;
+        add = (add * m) % mod;
     }
-    
+
     int getIndex(int idx) {
-        if (idx >= val.size()) 
-            return -1;
-        return (a * val[idx] + b) % mod;
+        if(idx >= arr.size()) return -1;
+        return (arr[idx] * mul + add) % mod;
     }
 };
-
-/**
- * Your Fancy object will be instantiated and called as such:
- * Fancy* obj = new Fancy();
- * obj->append(val);
- * obj->addAll(inc);
- * obj->multAll(m);
- * int param_4 = obj->getIndex(idx);
- */
