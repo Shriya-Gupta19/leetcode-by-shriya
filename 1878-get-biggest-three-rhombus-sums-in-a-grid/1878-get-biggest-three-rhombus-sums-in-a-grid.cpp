@@ -1,24 +1,62 @@
+unsigned diag[100][51], antid[100][51]; 
+const int OFFSET=50;
+
 class Solution {
 public:
-    vector<int> getBiggestThree(vector<vector<int>>& grid) {
-        int n=grid.size(),m=grid[0].size();
-        set<int>uniqueSum;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                uniqueSum.insert(grid[i][j]);
-                for(int len=1;i+2*len<n && j-len>=0 && j+len<m;len++){
-                    int currentSum=0;
-                    for(int ind=0;ind<len;ind++)currentSum+=grid[i+ind][j+ind]; 
-                    for(int ind=0;ind<len;ind++)currentSum+=grid[i+len+ind][j+len-ind];
-                    for(int ind=0;ind<len;ind++)currentSum+=grid[i+2*len-ind][j-ind];
-                    for(int ind=0;ind<len;ind++)currentSum+=grid[i+len-ind][j-len+ind];
-                    uniqueSum.insert(currentSum);
-                }
-   
+    static inline int rhombusSum(int i, int j, int d, vector<vector<int>>& grid) {
+        if (d==0) return grid[i][j];
+        
+        const int l=j-d, r=j+d, u=i-d, b=i+d ;
+        
+        // Diagonals with corner (\) 
+        const int i0=u-j+OFFSET, i1=i-l+OFFSET;
+        int sum=diag[i0][r+1]-diag[i0][j];
+        sum+=diag[i1][j+1]-diag[i1][l];
+        
+        // Anti-diagonals without corners (/) 
+        const int j0=u+j, j1=b+j;
+        sum+=antid[j0][i]-antid[j0][u+1];
+        sum+=antid[j1][b]-antid[j1][i+1];
+
+        return sum;
+    }
+
+    static vector<int> getBiggestThree(vector<vector<int>>& grid) {
+        const int m=grid.size(), n=grid[0].size();
+    //  no need for reset    
+    //    memset(diag, 0, sizeof(diag));
+    //    memset(antid, 0, sizeof(antid));
+
+        for (int i=0; i< m; i++) {
+            for (int j = 0; j < n; j++) {
+                const int i0=i-j+OFFSET, j0=i+j;
+                const int x=grid[i][j];
+                // diag over j, antid over i
+                diag[i0][j+1]=diag[i0][j]+x;
+                antid[j0][i+1]=antid[j0][i]+x;
             }
         }
-        vector<int>ans(uniqueSum.rbegin(),uniqueSum.rend());
-        if(ans.size()>3)ans.resize(3);
-        return ans;
+
+        int dM=min(m, n)/2; 
+        vector<int> x(3, -1);
+        for (int d=0; d<=dM; d++) {
+            for (int i=d; i<m-d; i++) {
+                for (int j=d; j<n-d; j++) {
+                    const int y=rhombusSum(i, j, d, grid);
+
+                    // Skip if y is already in our top 3 
+                    if (y==x[0] || y==x[1] || y==x[2]) continue;
+
+                    if (y>x[0]) {
+                        x[2]=x[1]; x[1]=exchange(x[0], y);
+                    }
+                    else if (y>x[1]) x[2]=exchange(x[1], y);
+                    else if (y>x[2]) x[2]=y;
+                }
+            }
+        }
+        for(int i=2; i>=0; i--) 
+            if (x[i]==-1) x.pop_back();
+        return x;
     }
 };
