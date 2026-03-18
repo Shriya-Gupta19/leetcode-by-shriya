@@ -149,6 +149,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
