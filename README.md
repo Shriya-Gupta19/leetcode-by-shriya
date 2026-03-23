@@ -162,6 +162,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
@@ -200,8 +201,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
