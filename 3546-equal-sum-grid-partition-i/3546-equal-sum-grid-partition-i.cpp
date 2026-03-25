@@ -1,20 +1,31 @@
 class Solution {
 public:
-    static bool canPartitionGrid(vector<vector<int>>& grid) {
-        long long Tsum=0;
-        for(auto& row : grid)
-            Tsum+=accumulate(row.begin(), row.end(), 0LL);
-        if (Tsum&1) return 0;
-        const long long target=Tsum/2;
-        const int r=grid.size(), c=grid[0].size();
-        long long rowSum=0, colSum=0;
-        for(int i=0; rowSum<target && i<r; i++){
-            rowSum+=accumulate(grid[i].begin(), grid[i].end(), 0LL);
+    bool canPartitionGrid(vector<vector<int>>& grid) {
+        int m = grid.size(), n = grid[0].size();
+        long long total = 0;
+        
+        for (auto &row : grid)
+            for (int x : row)
+                total += x;
+        
+        if (total % 2) return false;
+        
+        long long target = total / 2, sum = 0;
+        
+        for (int i = 0; i < m - 1; i++) {
+            for (int j = 0; j < n; j++)
+                sum += grid[i][j];
+            if (sum == target) return true;
         }
-        if (rowSum==target) return 1;
-        for(int j=0; colSum<target && j<c; j++){
-            for(int i=0; i<r; i++) colSum+=grid[i][j];
+        
+        sum = 0;
+        
+        for (int j = 0; j < n - 1; j++) {
+            for (int i = 0; i < m; i++)
+                sum += grid[i][j];
+            if (sum == target) return true;
         }
-        return colSum==target;
+        
+        return false;
     }
 };
