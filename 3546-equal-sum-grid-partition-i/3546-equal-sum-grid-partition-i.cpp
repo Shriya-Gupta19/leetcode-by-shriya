@@ -1,31 +1,48 @@
 class Solution {
 public:
+    int n, m;
+    bool checkHz(vector<vector<int>> grid){
+        unordered_set<long long> st;
+
+        long long pref = 0;
+
+        for(int i=0; i<n; i++){
+            long long rowSum = 0;
+            for(int j=0; j<m; j++){
+                rowSum += grid[i][j];
+            }
+            pref += rowSum;
+            st.insert(pref);
+        }
+
+        if(pref % 2 != 0) return false;
+
+        return st.count(pref / 2);
+    }
+
+    bool checkVz(vector<vector<int>> grid){
+        unordered_set<long long> st;
+
+        long long pref = 0;
+
+        for(int j=0; j<m; j++){
+            long long colSum = 0;
+            for(int i=0; i<n; i++){
+                colSum += grid[i][j];
+            }
+            pref += colSum;
+            st.insert(pref);
+        }
+
+        if(pref % 2 != 0) return false;
+
+        return st.count(pref / 2);
+    }
+
     bool canPartitionGrid(vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size();
-        long long total = 0;
-        
-        for (auto &row : grid)
-            for (int x : row)
-                total += x;
-        
-        if (total % 2) return false;
-        
-        long long target = total / 2, sum = 0;
-        
-        for (int i = 0; i < m - 1; i++) {
-            for (int j = 0; j < n; j++)
-                sum += grid[i][j];
-            if (sum == target) return true;
-        }
-        
-        sum = 0;
-        
-        for (int j = 0; j < n - 1; j++) {
-            for (int i = 0; i < m; i++)
-                sum += grid[i][j];
-            if (sum == target) return true;
-        }
-        
-        return false;
+        this->n = grid.size();
+        this->m = grid[0].size();
+
+        return checkHz(grid) || checkVz(grid);
     }
 };
