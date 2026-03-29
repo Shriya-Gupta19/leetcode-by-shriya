@@ -110,6 +110,7 @@
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0006-zigzag-conversion/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -140,6 +141,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Two Pointers
