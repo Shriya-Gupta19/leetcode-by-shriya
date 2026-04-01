@@ -74,6 +74,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2751-robot-collisions](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2906-construct-product-matrix/) | Medium |
@@ -101,6 +102,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -175,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
+| [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -223,11 +226,13 @@
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
+| [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
+| [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
