@@ -1,38 +1,35 @@
 class Solution {
 public:
-    double frogPosition(int n, vector<vector<int>>& edges, int t, int target) {
-        vector<vector<int>> graph(n+1);
-        for(auto e : edges){
-            graph[e[0]].push_back(e[1]);
-            graph[e[1]].push_back(e[0]);
-        }
-        vector<double> prob(n+1 , 0);
-        queue<int> q;
-        q.push(1);
-        vector<bool> visited(n+1, 0);
-        visited[1] = 1;
-        prob[1] = 1.0;
-        while(!q.empty() && t--) {
-            int size = q.size();
-            for(int i=0;i<size;i++){
-                int node = q.front();
-                q.pop();
-                int edge_count = 0; 
-                for(auto v : graph[node]){
-                    if(!visited[v]) 
-                        edge_count++;
-                }
-                for(auto v : graph[node]) {
-                    if(!visited[v]) {
-                        q.push(v);
-                        visited[v] = true;        
-                        prob[v] =  prob[node] / edge_count;                        
-                    }
-                } 
-                if(edge_count>0)
-                    prob[node] = 0;
+    double ans = 1;
+    vector<int> adj[100];
+    vector<int> options;
+    void dfs(int node, int par, int t, int target){
+        if(node == target){
+            if(options.size() > t){
+                ans = 0;
             }
+            if(options.size() < t && (node == 0 ? (adj[node].size() >= 1) : (adj[node].size() > 1))){
+                ans = 0;
+            }
+            for(auto j:options) ans/=j;
+            return;
         }
-        return prob[target];
+        int add = adj[node].size()-1;
+        if(node == 0) add++;
+        options.push_back(add);
+        for(auto j:adj[node]){
+            if(j == par) continue;
+            dfs(j, node, t, target);
+        }
+        options.pop_back();
     }
-};
+    double frogPosition(int n, vector<vector<int>>& edges, int t, int target) {
+        for(auto &j:edges){
+            j[0]--; j[1]--;
+            adj[j[0]].push_back(j[1]);
+            adj[j[1]].push_back(j[0]);
+        }
+        dfs(0, -1, t, --target);
+        return ans;
+    }
+};       
