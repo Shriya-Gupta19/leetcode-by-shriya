@@ -1,64 +1,77 @@
 class Solution {
 public:
-    int maxWalls(vector<int>& robots, vector<int>& distance,
-                 vector<int>& walls) {
+    int maxWalls(vector<int>& robots, vector<int>& d, vector<int>& walls) {
         int n = robots.size();
-        int pos1, pos2, pos3, leftPos, rightPos;
-        vector<int> left(n, 0), right(n, 0), num(n, 0);
-        unordered_map<int, int> robotsToDistance;
+
+        // Store robots as {position, distance}
+        vector<array<int, 2>> x(n);
         for (int i = 0; i < n; i++) {
-            robotsToDistance[robots[i]] = distance[i];
+            x[i] = {robots[i], d[i]};
         }
-        sort(robots.begin(), robots.end());
+
+        // Sort robots and walls to get everything in order
+        sort(x.begin(), x.end());
         sort(walls.begin(), walls.end());
-        for (int i = 0; i < n; i++) {
-            pos1 = upper_bound(walls.begin(), walls.end(), robots[i]) -
-                   walls.begin();
-            if (i >= 1) {
-                leftPos =
-                    lower_bound(walls.begin(), walls.end(),
-                                max(robots[i] - robotsToDistance[robots[i]],
-                                    robots[i - 1] + 1)) -
-                    walls.begin();
-            } else {
-                leftPos = lower_bound(walls.begin(), walls.end(),
-                                      robots[i] - robotsToDistance[robots[i]]) -
-                          walls.begin();
-            }
-            left[i] = pos1 - leftPos;
-            if (i < n - 1) {
-                rightPos =
-                    upper_bound(walls.begin(), walls.end(),
-                                min(robots[i] + robotsToDistance[robots[i]],
-                                    robots[i + 1] - 1)) -
-                    walls.begin();
-            } else {
-                rightPos =
-                    upper_bound(walls.begin(), walls.end(),
-                                robots[i] + robotsToDistance[robots[i]]) -
-                    walls.begin();
-            }
-            pos2 = lower_bound(walls.begin(), walls.end(), robots[i]) -
-                   walls.begin();
-            right[i] = rightPos - pos2;
-            if (i == 0) {
-                continue;
-            }
-            pos3 = lower_bound(walls.begin(), walls.end(), robots[i - 1]) -
-                   walls.begin();
-            num[i] = pos1 - pos3;
+
+        // Dummy robot to avoid boundary checks
+        x.push_back({(int)1e9, 0});
+
+        // Function to count walls in range [l, r]
+        auto query = [&](int l, int r) -> int {
+            if (l > r) return 0;
+            auto it1 = upper_bound(walls.begin(), walls.end(), r);
+            auto it2 = lower_bound(walls.begin(), walls.end(), l);
+            return it1 - it2;
+        };
+
+        // dp[i][0] = i-th robot shoots LEFT
+        // dp[i][1] = i-th robot shoots RIGHT
+        vector<array<int, 2>> dp(n);
+
+        // Base case (i = 0)- shooting left
+        dp[0][0] = query(x[0][0] - x[0][1], x[0][0]);
+
+        //shooting right
+        if (n > 1) { 
+            dp[0][1] = query(
+                x[0][0],
+                min(x[1][0] - 1, x[0][0] + x[0][1])
+            );
+        } else {
+            dp[0][1] = query(x[0][0], x[0][0] + x[0][1]);
         }
-        int subLeft, subRight, currentLeft, currentRight;
-        subLeft = left[0];
-        subRight = right[0];
+
+        // DP transitions
         for (int i = 1; i < n; i++) {
-            currentLeft =
-                max(subLeft + left[i], subRight - right[i - 1] +
-                                           min(left[i] + right[i - 1], num[i]));
-            currentRight = max(subLeft + right[i], subRight + right[i]);
-            subLeft = currentLeft;
-            subRight = currentRight;
+
+            // Case 1: shoot RIGHT
+            dp[i][1] = max(dp[i - 1][0], dp[i - 1][1]) +
+                       query(
+                           x[i][0],
+                           min(x[i + 1][0] - 1, x[i][0] + x[i][1])
+                       );
+
+            // Case 2: shoot LEFT (no overlap with previous LEFT)
+            dp[i][0] = dp[i - 1][0] +
+                       query(
+                           max(x[i][0] - x[i][1], x[i - 1][0] + 1),
+                           x[i][0]
+                       );
+
+            // Case 3: shoot LEFT but previous was RIGHT (handle overlap)
+            int leftStart = max(x[i][0] - x[i][1], x[i - 1][0] + 1);
+            int leftEnd   = x[i][0];
+
+            int overlapStart = leftStart;
+            int overlapEnd   = min(x[i - 1][0] + x[i - 1][1], x[i][0] - 1);
+
+            int res = dp[i - 1][1]
+                      + query(leftStart, leftEnd)
+                      - query(overlapStart, overlapEnd);
+
+            dp[i][0] = max(dp[i][0], res);
         }
-        return max(subLeft, subRight);
+
+        return max(dp[n - 1][0], dp[n - 1][1]);
     }
 };
