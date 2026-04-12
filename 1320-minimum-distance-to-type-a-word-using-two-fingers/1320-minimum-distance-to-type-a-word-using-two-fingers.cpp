@@ -1,34 +1,33 @@
+int dp[300][27];
 class Solution {
 public:
-    int cal(int a, int b) {
-        int ax = a / 6, ay = a % 6, bx = b / 6, by = b % 6;
-        return abs(a / 6 - b / 6) + abs(a % 6 - b % 6);
+    static inline int dist(int x, int y) {
+        if (x==26 || y==26) return 0; // 26 denotes hovering 
+        return abs(x/6-y/6)+abs(x%6-y%6);
     }
 
-    int minimumDistance(string s) {
-        int n = s.size(), dp[300][26][26];
+    static int minimumDistance(string& word) {
+        const int n=word.size();
+        constexpr int INF=1e9+7;
+        fill(&dp[0][0], &dp[0][0]+n*27, INF);// reset 
+        dp[0][26]=0;
+        int prev=word[0]-'A'; 
 
-        for (int i = 0; i < n; i++) {
-            int t = s[i] - 'A';
-            for (int j = 0; j < 26; j++) {
-                for (int k = 0; k < 26; k++) {
-                    dp[i + 1][j][k] = 1e6;
-                }
+        for (int i=1; i<n; i++) {
+            int x=word[i]-'A';
+
+            for (int j=0; j<27; j++) {
+                if (dp[i-1][j]>=INF) continue;
+
+                // Move the current finger
+                dp[i][j]=min(dp[i][j], dp[i-1][j] + dist(prev, x));
+
+                // Move the other finger 
+                dp[i][prev]=min(dp[i][prev], dp[i-1][j]+dist(j, x));
             }
-            for (int j = 0; j < 26; j++) {
-                for (int k = 0; k < 26; k++) {
-                    dp[i + 1][j][t] = min(dp[i + 1][j][t], dp[i][j][k] + cal(k, t));
-                    dp[i + 1][t][k] = min(dp[i + 1][t][k], dp[i][j][k] + cal(j, t));
-                }
-            }
+            prev=x; // Update prev to x
         }
 
-        int ans = 1e6;
-        for (int j = 0; j < 26; j++) {
-            for (int k = 0; k < 26; k++) {
-                ans = min(ans, dp[n][j][k]);
-            }
-        }
-        return ans;
+        return *min_element(dp[n-1], dp[n-1]+27);
     }
 };
