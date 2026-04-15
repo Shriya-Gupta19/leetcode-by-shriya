@@ -67,6 +67,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0078-subsets/) | Medium |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0934-shortest-bridge](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0934-shortest-bridge/) | Medium |
@@ -182,6 +183,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0078-subsets/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
@@ -197,6 +199,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0078-subsets/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
