@@ -129,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0006-zigzag-conversion/) | Medium |
+| [0022-generate-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -159,6 +160,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0022-generate-parentheses/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -183,6 +185,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0078-subsets/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1980-find-unique-binary-string/) | Medium |
