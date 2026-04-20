@@ -1,4 +1,4 @@
-\class Solution {
+class Solution {
 public:
     int maxDistance(vector<int>& A) {
         int j = A.size();
