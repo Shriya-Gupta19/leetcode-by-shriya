@@ -1,21 +1,12 @@
-class Solution {
+\class Solution {
 public:
     int maxDistance(vector<int>& A) {
-        int n = A.size();
-        int left = 0, right = 0;
+        int j = A.size();
 
-        for (int i = 0; i < n; i++)
-            if (A[i] ^ A[n - 1]) {
-                left = i;
-                break;
-            }
+        for (int i = 0; i < j; i++)
+            if ((A[i] ^ A.back()) | (A[j - 1 - i] ^ A[0]))
+                return j - 1 - i;
 
-        for (int i = n - 1; i >= 0; i--)
-            if (A[i] ^ A[0]) {
-                right = i;
-                break;
-            }
-
-        return max(n - 1 - left, right);
+        return 0;
     }
 };
