@@ -83,6 +83,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2906-construct-product-matrix/) | Medium |
@@ -104,6 +105,7 @@
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
