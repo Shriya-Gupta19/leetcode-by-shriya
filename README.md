@@ -76,6 +76,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -225,6 +226,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
@@ -284,6 +286,7 @@
 | [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
 | [0934-shortest-bridge](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0934-shortest-bridge/) | Medium |
 | [1377-frog-position-after-t-seconds](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1377-frog-position-after-t-seconds/) | Hard |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
