@@ -94,6 +94,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -222,6 +223,7 @@
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -250,6 +252,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Heap (Priority Queue)
@@ -274,6 +277,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2751-robot-collisions/) | Hard |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -330,4 +334,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 <!---LeetCode Topics End-->
