@@ -1,42 +1,63 @@
-class Solution {
-    static constexpr int TRANS[6][4] = {{-1, 1, -1, 3},
-                                        {0, -1, 2, -1},
-                                        {3, 2, -1, -1},
-                                        {1, -1, -1, 2},
-                                        {-1, 0, 3, -1},
-                                        {-1, -1, 1, 0}};
-    static constexpr int DIRS[4][2] = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
-    static constexpr int START[6][2] = {{1, 3}, {0, 2}, {2, 3},
-                                        {1, 2}, {0, 3}, {0, 1}};
-
+constexpr int NN=300*300;
+int Rt[NN], Rk[NN];
+class UnionFind { // UnionFind class with rank
+    int* root, *rank;
 public:
-    bool hasValidPath(vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size();
-        if (m == 1 && n == 1) return true;
+    UnionFind(int n){
+        root=Rt;
+        rank=Rk;
+        memset(rank, 0, n*sizeof(int));//set rank all 0
+        iota(root, root+n, 0);// set root=[0, 1,..., n-1]
+    }
 
-        auto check = [&](int di) -> bool {
-            if (di == -1) return false;
-            int r = DIRS[di][0];
-            int c = DIRS[di][1];
-            bitset<90000> visit;
+    int Find(int x) {// compressed path
+        return (x==root[x])?x:root[x]=Find(root[x]);
+    }
 
-            while (r >= 0 && r < m && c >= 0 && c < n) {
-                int cell = r * n + c;
-                if (visit[cell]) return false;
-                visit[cell] = 1;
-
-                di = TRANS[grid[r][c] - 1][di];
-                if (di == -1) return false;
-                if (r == m - 1 && c == n - 1) return true;
-
-                r += DIRS[di][0];
-                c += DIRS[di][1];
+    bool Union(int x, int y) {
+        x=Find(x), y=Find(y);
+        if (x == y) return 0;// a cycle is detected
+        if (rank[x]>rank[y]) swap(x, y);
+        root[x]=y;
+        if (rank[x]==rank[y]) rank[y]++;
+        return 1;// each comp is still a tree
+    }
+    bool connected(int x, int y){ return Find(x)==Find(y); }
+};
+class Solution {
+public:
+    inline static int idx(int i, int j, int c){ return i*c+j; }
+    static bool hasValidPath(vector<vector<int>>& grid) {
+        const int r=grid.size(), c=grid[0].size(), N=r*c;
+        UnionFind G(N);
+        for(int i=0; i<r-1; i++){
+            for(int j=0; j<c-1; j++){
+                const int C=grid[i][j], R=grid[i][j+1], D=grid[i+1][j];
+                const int cc=idx(i, j, c), rr=cc+1, dd=cc+c;
+                const bool CR=(C==1)|(C==4)|(C==6), RC=R&1;
+                const bool CD=(C==2)|(C==4)|(C==3), DC=(D==2)|(D==5)|(D==6);
+                // (C, R) connected only for (1,1), (1,3), (1,5) &
+                // (4, 1), (4, 3), (4, 5), (6,1) ,(6, 3), (6, 5)
+                if(CR & RC)
+                    G.Union(cc, rr);
+                // (C, D) connected only for (2, 2), (2, 5), (2, 6),
+                // (3, 2), (3, 5), (3, 6), (4, 2), (4, 5), (4, 6)
+                if (CD & DC)
+                    G.Union(cc, dd);
             }
-
-            return false;
-        };
-
-        const int* s = START[grid[0][0] - 1];
-        return check(s[0]) || check(s[1]);
+            const int C=grid[i][c-1], D=grid[i+1][c-1];
+            const int cc=idx(i, c-1, c), dd=cc+c;
+            const bool CD=(C==2)|(C==4)|(C==3), DC=(D==2)|(D==5)|(D==6);
+            if (CD & DC)
+                G.Union(cc, dd);
+        }
+        for(int j=0; j<c-1; j++){
+            const int C=grid[r-1][j], R=grid[r-1][j+1];
+            const int cc=idx(r-1, j, c), rr=cc+1;
+            const bool CR=(C==1)|(C==4)|(C==6), RC=R&1;
+            if(CR & RC)
+                G.Union(cc, rr);
+        }
+        return G.connected(0, N-1);
     }
 };
