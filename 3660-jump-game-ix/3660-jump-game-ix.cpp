@@ -1,38 +1,31 @@
+// global static array for prefix Max only
+const int N=1e5;
+int prefMax[N];
 class Solution {
 public:
-    vector<int> maxValue(vector<int>& nums) {
-        int n = nums.size();
-
-        vector<int> pre(n), suf(n), res(n);
-
-        // prefix max
-        pre[0] = nums[0];
-        for (int i = 1; i < n; i++) {
-            pre[i] = max(pre[i - 1], nums[i]);
+    static vector<int> maxValue(vector<int>& nums) {
+        const int n=nums.size();
+        prefMax[0]=nums[0];
+        for(int i=1; i<n; i++){
+            const int x=nums[i];
+            prefMax[i]=max(prefMax[i-1], x);
         }
-
-        // suffix min
-        suf[n - 1] = nums[n - 1];
-        for (int i = n - 2; i >= 0; i--) {
-            suf[i] = min(suf[i + 1], nums[i]);
+        vector<int> ans(n);
+        ans[n-1]=prefMax[n-1];
+        int sufMin=nums[n-1];
+        for(int i=n-2; i>=0; i--){
+            if (prefMax[i]>sufMin) 
+                ans[i]=ans[i+1];
+            else ans[i]=prefMax[i];
+            sufMin=min(sufMin, nums[i]);
         }
-
-        res[n - 1] = pre[n - 1];
-
-        // build answer
-        for (int i = n - 2; i >= 0; i--) {
-
-            // merge segment
-            if (pre[i] > suf[i + 1]) {
-                res[i] = res[i + 1];
-            }
-
-            // new segment
-            else {
-                res[i] = pre[i];
-            }
-        }
-
-        return res;
+        return ans;
     }
 };
+auto init = []()
+{ 
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
