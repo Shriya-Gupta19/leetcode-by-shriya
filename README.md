@@ -98,6 +98,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2540-minimum-common-value](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -226,6 +227,7 @@
 | [1345-jump-game-iv](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -262,6 +264,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2540-minimum-common-value](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -334,6 +337,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1861-rotating-the-box/) | Medium |
+| [2540-minimum-common-value](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
