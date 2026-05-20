@@ -100,6 +100,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2540-minimum-common-value](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -228,6 +229,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -258,6 +260,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0078-subsets/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
