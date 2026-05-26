@@ -183,6 +183,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -233,6 +234,7 @@
 | [2540-minimum-common-value](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
