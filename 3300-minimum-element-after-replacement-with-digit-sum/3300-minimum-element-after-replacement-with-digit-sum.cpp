@@ -1,9 +1,24 @@
+#include <vector>
+#include <algorithm>
+#include <climits>
+using namespace std;
+
 class Solution {
 public:
     int minElement(vector<int>& nums) {
-        int res = 36;
-        for (auto& n : nums)
-            res = min(res, n - 9 * ((n/10) + (n/100) + (n/1000) + (n/10000)));
-        return res;
+        int min_val = INT_MAX;
+        
+        for (int num : nums) {
+            int current_sum = 0;
+            
+            while (num > 0) {
+                current_sum += num % 10;
+                num /= 10;
+            }
+            
+            min_val = min(min_val, current_sum);
+        }
+        
+        return min_val;
     }
 };
