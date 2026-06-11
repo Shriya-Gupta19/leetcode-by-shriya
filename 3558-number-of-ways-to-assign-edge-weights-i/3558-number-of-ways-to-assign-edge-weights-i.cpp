@@ -1,51 +1,33 @@
-struct Solution {
-    static constexpr unsigned assignEdgeWeights(const vector<vector<int>>& edges) {
-        static constexpr unsigned mod = 1000000007;
-
-        unsigned size = edges.size() + 1u;
-        auto arr = make_unique<unsigned[]>(size * 3u);
-
-        unsigned* const cnt = arr.get();
-        unsigned* const sum = cnt + size;
-        unsigned* right = sum + size;
-        const unsigned* left = right;
-
-        for (span<const int> e : edges) {
-            unsigned u = e[0] - 1u;
-            unsigned v = e[1] - 1u;
-
-            ++cnt[u];
-            ++cnt[v];
-
-            sum[u] ^= v;
-            sum[v] ^= u;
+class Solution {
+public:
+    const int MOD=1e9+7;
+int power(long long a,long long b){
+    long long ans=1;
+        a%=MOD;
+     while(b>0){
+        if(b&1)ans=(ans*a)%MOD;
+        a=(a*a)%MOD;
+        b>>=1;
+    }
+    return (int)ans;
+}
+    int dfs(int node,int per,vector<vector<int>>&adj){
+        if(adj[node].size()==0)return 0;
+        int ans=0;
+        for(auto&it:adj[node]){
+            if(it!=per)ans=max(ans,1+dfs(it,node,adj));
         }
-
-        for (unsigned i = 1; i != size; ++i)
-            if (cnt[i] == 1u)
-                *right++ = i;
-
-        unsigned res = 1;
-
-        while (left != right) {
-            span<const unsigned> curr(left, right);
-            left = right;
-
-            for (unsigned v : curr) {
-                unsigned p = sum[v];
-
-                if (p) {
-                    sum[p] ^= v;
-
-                    if (--cnt[p] == 1u)
-                        *right++ = p;
-                }
-            }
-
-            res %= mod;
-            res *= 2u;
+        return ans;
+    }
+    int assignEdgeWeights(vector<vector<int>>& edges) {
+        int n=edges.size()+2;
+        vector<vector<int>>adj(n);
+        for(auto&edge : edges){
+            int u=edge[0],v=edge[1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
-
-        return res / 2u;
+        int depth=dfs(1,-1,adj);
+        return power(2,depth-1);
     }
 };
