@@ -120,6 +120,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -232,6 +233,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -284,6 +286,7 @@
 | [0078-subsets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0078-subsets/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +332,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -394,6 +398,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +433,7 @@
 | ------- | ------- |
 | [1377-frog-position-after-t-seconds](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1377-frog-position-after-t-seconds/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
