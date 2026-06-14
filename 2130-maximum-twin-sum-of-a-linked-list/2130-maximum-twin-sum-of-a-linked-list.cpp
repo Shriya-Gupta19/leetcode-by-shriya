@@ -1,23 +1,26 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
-        ListNode* prev = nullptr;
+        ListNode *slow = head, *fast = head, *prev = nullptr;
 
         while (fast && fast->next) {
             fast = fast->next->next;
-            swap(slow->next, prev);
-            swap(prev, slow);
+
+            ListNode* nxt = slow->next;
+            slow->next = prev;
+            prev = slow;
+            slow = nxt;
         }
 
-        int res = 0;
-        while (slow) {
-            res = max(res, prev->val + slow->val);
-            prev = prev->next;
-            slow = slow->next;
+        int ans = 0;
+        ListNode *left = prev, *right = slow;
+
+        while (left) {
+            ans = max(ans, left->val + right->val);
+            left = left->next;
+            right = right->next;
         }
 
-        return res;
+        return ans;
     }
 };
