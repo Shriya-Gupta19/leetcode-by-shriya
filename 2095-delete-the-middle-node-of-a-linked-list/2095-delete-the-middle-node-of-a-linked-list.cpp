@@ -4,19 +4,19 @@ public:
         if (!head->next) {
             return nullptr;
         }
-        int n = 0;
-        ListNode* curr = head;
 
-        while (curr) {
-            n++;
-            curr = curr->next;
-        }
-        curr = head;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        ListNode* prev = nullptr;
 
-        for (int i = 0; i < n / 2 - 1; i++) {
-            curr = curr->next;
+        while (fast && fast->next) {
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        curr->next = curr->next->next;
+
+        prev->next = slow->next;
+
         return head;
     }
 };
