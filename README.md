@@ -132,6 +132,7 @@
 | [3660-jump-game-ix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -273,6 +274,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -297,6 +299,7 @@
 | [3225-maximum-score-from-grid-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,6 +376,7 @@
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1622-fancy-sequence/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -461,6 +465,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -490,4 +495,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
