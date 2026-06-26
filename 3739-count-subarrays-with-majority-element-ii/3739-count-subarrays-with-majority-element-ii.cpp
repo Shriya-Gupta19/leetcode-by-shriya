@@ -1,28 +1,41 @@
-constexpr int N=2e5+2;
-long long cntB[N], bias;
-
 class Solution {
 public:
-    static long long countMajoritySubarrays(vector<int>& nums, int target) {
-        bias=nums.size()+1;
-        int balance=bias;
-        memset(cntB , 0, (2*bias)*sizeof(long long));;
-        cntB[balance]=1;
-        long long ans=0, sum=0;
-        
-        for (int x : nums) {
-            bool isT=x==target;
-            sum+=(-isT & cntB[balance])-(-!isT & cntB[balance-1]);
-            balance+=(isT<<1)-1;
-            cntB[balance]++;
-            ans+=sum;
+    long long countMajoritySubarrays(vector<int>& nums, int target) {
+        int n = nums.size();
+        long long cnt = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == target) nums[i] = 1;
+            else nums[i] = -1;
         }
-        return ans;
+
+        vector<int> pref(n);
+        pref[0] = nums[0];
+
+        for (int i = 1; i < n; i++) {
+            pref[i] = pref[i - 1] + nums[i];
+        }
+
+        int shift = n;
+        vector<int> freq(2 * n + 1, 0);
+
+        freq[shift] = 1;
+
+        long long valid = 0;
+        int lastSum = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (pref[i] > lastSum) {
+                valid += freq[lastSum + shift];
+            } else {
+                valid -= freq[pref[i] + shift];
+            }
+
+            cnt += valid;
+            freq[pref[i] + shift]++;
+            lastSum = pref[i];
+        }
+
+        return cnt;
     }
 };
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
