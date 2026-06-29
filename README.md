@@ -98,6 +98,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -204,6 +205,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
