@@ -122,6 +122,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -185,6 +186,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -352,6 +354,7 @@
 | [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
 | [1377-frog-position-after-t-seconds](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1377-frog-position-after-t-seconds/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -381,6 +384,7 @@
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Design
@@ -460,6 +464,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -526,4 +531,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
