@@ -349,6 +349,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
@@ -357,6 +358,7 @@
 | [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
 | [1377-frog-position-after-t-seconds](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1377-frog-position-after-t-seconds/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -452,6 +454,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
@@ -468,6 +471,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
