@@ -69,6 +69,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0014-longest-common-prefix/) | Easy |
 | [0078-subsets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -412,6 +413,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1340-jump-game-v/) | Hard |
@@ -434,6 +436,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
