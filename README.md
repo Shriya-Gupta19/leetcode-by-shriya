@@ -69,6 +69,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0015-3sum/) | Medium |
 | [0078-subsets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -416,6 +417,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -439,6 +441,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0125-valid-palindrome/) | Easy |
