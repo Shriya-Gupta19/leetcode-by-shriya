@@ -79,6 +79,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0994-rotting-oranges/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1340-jump-game-v/) | Hard |
@@ -416,6 +417,7 @@
 | [0088-merge-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
