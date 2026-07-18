@@ -81,6 +81,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0934-shortest-bridge](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0934-shortest-bridge/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0994-rotting-oranges/) | Medium |
@@ -294,6 +295,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
@@ -302,6 +304,7 @@
 | [0001-two-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
