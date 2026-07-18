@@ -77,6 +77,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -291,6 +292,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -329,6 +331,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -356,6 +359,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
