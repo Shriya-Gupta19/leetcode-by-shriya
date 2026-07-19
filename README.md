@@ -85,6 +85,7 @@
 | [0934-shortest-bridge](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0934-shortest-bridge/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -302,6 +303,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
@@ -343,6 +345,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -371,6 +374,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
