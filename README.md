@@ -79,6 +79,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -369,6 +370,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0078-subsets/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -380,6 +382,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2540-minimum-common-value/) | Easy |
@@ -505,6 +508,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
