@@ -505,6 +505,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1861-rotating-the-box/) | Medium |
@@ -601,6 +602,7 @@
 | [0061-rotate-list](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Number Theory
