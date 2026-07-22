@@ -90,6 +90,7 @@
 | [0994-rotting-oranges](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1306-jump-game-iii/) | Medium |
@@ -283,6 +284,7 @@
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1340-jump-game-v/) | Hard |
