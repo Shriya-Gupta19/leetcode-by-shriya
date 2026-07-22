@@ -70,6 +70,7 @@
 | [0001-two-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0015-3sum/) | Medium |
+| [0053-maximum-subarray](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0078-subsets/) | Medium |
@@ -275,6 +276,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0055-jump-game/) | Medium |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
@@ -590,6 +592,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0053-maximum-subarray/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Trie
