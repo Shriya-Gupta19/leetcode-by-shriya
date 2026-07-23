@@ -4,9 +4,7 @@ public:
         int best=nums[0];
         int res_max=nums[0];
         for(int i=1;i<nums.size();i++){
-            int v1=best+nums[i];
-            int v2=nums[i];
-            best=max(v1,v2);
+            best=max(best+nums[i],nums[i]);
             res_max=max(res_max,best);
         }
         return res_max;
@@ -15,9 +13,7 @@ public:
         int best=nums[0];
         int res_min=nums[0];
         for(int i=1;i<nums.size();i++){
-            int v1=best+nums[i];
-            int v2=nums[i];
-            best=min(v1,v2);
+            best=min(best+nums[i],nums[i]);
             res_min=min(res_min,best);
         }
         return res_min;
@@ -27,10 +23,9 @@ public:
         for(int i=0;i<nums.size();i++){
             total_sum+=nums[i];
         }
-        int a=kadanes_max(nums);
-        if(a<0) return a;
-        int b=kadanes_min(nums);
-        int c=total_sum-b;
-        return max(a,c);
+        int normal=kadanes_max(nums);
+        if(normal<0) return normal;
+        int rem=total_sum-kadanes_min(nums);
+        return max(normal,rem);
     }
 };
