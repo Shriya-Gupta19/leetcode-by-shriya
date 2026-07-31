@@ -243,6 +243,7 @@
 | [0541-reverse-string-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -621,6 +622,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
