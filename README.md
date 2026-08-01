@@ -82,6 +82,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0486-predict-the-winner](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0486-predict-the-winner/) | Medium |
 | [0525-contiguous-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
@@ -274,6 +275,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -300,6 +302,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0486-predict-the-winner](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0486-predict-the-winner/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -470,6 +473,7 @@
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0202-happy-number/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0486-predict-the-winner](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0486-predict-the-winner/) | Medium |
 | [1622-fancy-sequence](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -710,4 +714,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
