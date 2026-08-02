@@ -88,6 +88,7 @@
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0724-find-pivot-index](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0724-find-pivot-index/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0934-shortest-bridge](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0934-shortest-bridge/) | Medium |
@@ -303,6 +304,7 @@
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0486-predict-the-winner](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -474,6 +476,7 @@
 | [0202-happy-number](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0202-happy-number/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0486-predict-the-winner](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0877-stone-game/) | Medium |
 | [1622-fancy-sequence](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -718,4 +721,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
