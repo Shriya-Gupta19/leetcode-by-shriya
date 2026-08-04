@@ -173,6 +173,7 @@
 | [3660-jump-game-ix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -376,6 +377,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3731-find-missing-elements](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -555,6 +557,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3731-find-missing-elements](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
