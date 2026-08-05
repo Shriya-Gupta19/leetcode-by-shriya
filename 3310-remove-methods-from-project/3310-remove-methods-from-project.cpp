@@ -1,54 +1,43 @@
 class Solution {
 public:
-    bool outsideConnection = false;
-    vector<int> mark;
-
-    void bfs(int color, unordered_map<int, vector<int>>& graph, int src){
-        queue<int> q;
-        q.push(src);
-        mark[src] = color;
-
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-
-            if(!graph.count(node)) continue;
-
-            for(int nxt : graph[node]){
-                if(mark[nxt] == 1 && color == 2){
-                    outsideConnection = true;
-                    return;
-                }
-
-                if(mark[nxt] != color){
-                    mark[nxt] = color;
-                    q.push(nxt);
-                }
+    void dfs(int node, unordered_map<int, vector<int>>& invoke, vector<int>& vis) {
+        vis[node] = 1;
+        for (auto &it : invoke[node]) {
+            if (!vis[it]) {
+                dfs(it, invoke, vis);
             }
         }
     }
 
-    vector<int> remainingMethods(int n, int k, vector<vector<int>>& edges) {
-        unordered_map<int, vector<int>> graph;
-        mark.assign(n, 0);
+    vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
+        unordered_map<int, vector<int>> invoke;
 
-        for(auto &e : edges)
-            graph[e[0]].push_back(e[1]);
-
-        bfs(1, graph, k);
-
-        for(int i = 0; i < n; i++){
-            if(i == k || mark[i] == 1) continue;
-            bfs(2, graph, i);
+        for (auto &it : invocations) {
+            int u = it[0];
+            int v = it[1];
+            invoke[u].push_back(v);
         }
 
-        vector<int> res;
+        vector<int> vis(n, 0);
+        dfs(k, invoke, vis);
 
-        for(int i = 0; i < n; i++){
-            if(!outsideConnection && mark[i] == 1) continue;
-            res.push_back(i);
+        vector<int> rem;
+
+        for (auto &it : invocations) {
+            int u = it[0];
+            int v = it[1];
+
+            if (!vis[u] && vis[v]) {
+                for (int i = 0; i < n; i++)
+                    rem.push_back(i);
+                return rem;
+            }
+        }
+        for (int i = 0; i < n; i++) {
+            if (!vis[i])
+                rem.push_back(i);
         }
 
-        return res;
+        return rem;
     }
 };
