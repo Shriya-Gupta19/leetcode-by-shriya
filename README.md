@@ -318,6 +318,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1770-maximum-score-from-performing-multiplication-operations/) | Hard |
@@ -490,6 +491,7 @@
 | [0877-stone-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1510-stone-game-iv/) | Hard |
 | [1622-fancy-sequence](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -744,14 +746,25 @@
 | [0877-stone-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
