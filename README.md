@@ -243,6 +243,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0125-valid-palindrome/) | Easy |
@@ -660,6 +661,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -786,4 +788,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
