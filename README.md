@@ -87,6 +87,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0724-find-pivot-index](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0739-daily-temperatures/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -662,6 +663,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0020-valid-parentheses/) | Easy |
+| [0739-daily-temperatures](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -751,6 +753,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
