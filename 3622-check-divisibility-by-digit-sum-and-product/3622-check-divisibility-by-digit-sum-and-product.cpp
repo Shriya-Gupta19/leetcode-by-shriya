@@ -1,12 +1,18 @@
 class Solution {
 public:
     bool checkDivisibility(int n) {
-        int s=0, p=1;
-        for(int x=n; x>0; x/=10){
-            const int r=x%10;
-            s+=r;
-            p*=r;
+        int original = n;
+        int digitSum = 0;
+        int digitProduct = 1;
+
+        while (n > 0) {
+            int digit = n % 10;
+            digitSum += digit;
+            digitProduct *= digit;
+            n /= 10;
         }
-        return n%(s+p)==0;
+
+        int divisor = digitSum + digitProduct;
+        return original % divisor == 0;
     }
 };
