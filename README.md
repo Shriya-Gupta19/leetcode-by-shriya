@@ -193,6 +193,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -557,6 +558,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
