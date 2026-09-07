@@ -267,6 +267,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -337,6 +338,7 @@
 | [0486-predict-the-winner](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1162-as-far-from-land-as-possible/) | Medium |
