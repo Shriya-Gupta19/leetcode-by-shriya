@@ -20,7 +20,6 @@ public:
         if(subtreeSum / subtreeCount == root->val) count++;
         return {subtreeSum, subtreeCount};
     }
-
     int averageOfSubtree(TreeNode* root) {
         int count = 0;
         trav(root, count);
