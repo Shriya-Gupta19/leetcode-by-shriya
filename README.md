@@ -663,6 +663,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1905-count-sub-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1905-count-sub-islands/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -718,6 +719,7 @@
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [1377-frog-position-after-t-seconds](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1377-frog-position-after-t-seconds/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Divide and Conquer
@@ -776,6 +778,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
