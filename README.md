@@ -264,6 +264,7 @@
 | [0125-valid-palindrome](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -393,6 +394,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -738,6 +740,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2029-stone-game-ix/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2833-furthest-point-from-origin/) | Easy |
