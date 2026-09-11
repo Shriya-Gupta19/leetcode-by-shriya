@@ -1,13 +1,25 @@
 class Solution {
 public:
-    int maxNumberOfBalloons(string t) {
-        int f[5] = {0};
-        string s = "balon";
+    int maxNumberOfBalloons(string text) {
+        int res=INT_MAX;
+        unordered_map<char,int>have;
+        for(int i=0;i<text.size();i++){
+            have[text[i]]++;
+        }
+        unordered_map<char,int>need;
+        need['b']=1;
+        need['a']=1;
+        need['l']=2;
+        need['o']=2;
+        need['n']=1;
 
-        for (uint32_t ch : t)
-            for (int i = 0; i < 5; i++)
-                f[i] += !(ch ^ s[i]);
-
-        return min({f[0], f[1], f[2] >> 1, f[3] >> 1, f[4]});
+        for(auto i:need){
+            char c=i.first;
+            int fneed=i.second;
+            int fhave=have[c];
+            int times=fhave/fneed;
+            res=min(res,times);
+        }
+        return res;
     }
 };
