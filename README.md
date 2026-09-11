@@ -265,6 +265,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -395,6 +396,7 @@
 | [0202-happy-number](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -741,6 +743,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2029-stone-game-ix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2029-stone-game-ix/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -795,6 +798,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Queue
