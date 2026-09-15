@@ -212,6 +212,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -290,6 +291,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -359,6 +361,7 @@
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1770-maximum-score-from-performing-multiplication-operations/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -656,6 +659,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2540-minimum-common-value](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2540-minimum-common-value/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
