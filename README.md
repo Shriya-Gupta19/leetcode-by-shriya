@@ -556,6 +556,7 @@
 | [0836-rectangle-overlap](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1140-stone-game-ii/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1563-stone-game-v/) | Hard |
@@ -778,6 +779,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
