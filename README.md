@@ -688,6 +688,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
@@ -743,6 +744,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0020-valid-parentheses/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -755,6 +757,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [1377-frog-position-after-t-seconds](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1377-frog-position-after-t-seconds/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -820,6 +823,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Shortest Path
