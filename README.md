@@ -701,6 +701,7 @@
 | [0101-symmetric-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0226-invert-binary-tree/) | Easy |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
@@ -723,6 +724,7 @@
 | [0101-symmetric-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0226-invert-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
 | [0934-shortest-bridge](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0934-shortest-bridge/) | Medium |
@@ -778,6 +780,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0226-invert-binary-tree/) | Easy |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [1377-frog-position-after-t-seconds](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1377-frog-position-after-t-seconds/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -848,6 +851,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0226-invert-binary-tree/) | Easy |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Shortest Path
