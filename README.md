@@ -697,6 +697,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
@@ -717,6 +718,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
@@ -768,6 +770,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -836,6 +839,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
