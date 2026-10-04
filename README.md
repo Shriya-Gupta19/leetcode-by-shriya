@@ -205,6 +205,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0055-jump-game/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -279,6 +280,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -357,6 +359,7 @@
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0486-predict-the-winner](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -774,6 +777,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -941,6 +945,7 @@
 | [0020-valid-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Combinatorics
