@@ -952,6 +952,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Combinatorics
