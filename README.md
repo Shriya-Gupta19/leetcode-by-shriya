@@ -154,6 +154,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -221,6 +222,7 @@
 | [2126-destroying-asteroids](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -448,6 +450,7 @@
 | [2540-minimum-common-value](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -510,6 +513,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
