@@ -205,6 +205,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -629,6 +630,7 @@
 | [3870-count-commas-in-range](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -692,6 +694,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3731-find-missing-elements](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3731-find-missing-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -783,6 +786,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
