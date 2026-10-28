@@ -209,6 +209,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -274,6 +275,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -416,6 +418,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -535,6 +538,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
