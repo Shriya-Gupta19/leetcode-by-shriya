@@ -578,6 +578,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -594,6 +595,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0133-clone-graph/) | Medium |
+| [0547-number-of-provinces](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
 | [1377-frog-position-after-t-seconds](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1377-frog-position-after-t-seconds/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1791-find-center-of-star-graph/) | Easy |
@@ -766,6 +768,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0226-invert-binary-tree/) | Easy |
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
+| [0547-number-of-provinces](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
 | [0934-shortest-bridge](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0934-shortest-bridge/) | Medium |
@@ -793,6 +796,7 @@
 | [0133-clone-graph](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0547-number-of-provinces](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
 | [0934-shortest-bridge](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0934-shortest-bridge/) | Medium |
