@@ -447,6 +447,7 @@
 | [0001-two-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0076-minimum-window-substring/) | Hard |
+| [0133-clone-graph](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0202-happy-number/) | Easy |
@@ -591,6 +592,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0133-clone-graph/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0841-keys-and-rooms/) | Medium |
 | [1377-frog-position-after-t-seconds](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1377-frog-position-after-t-seconds/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1791-find-center-of-star-graph/) | Easy |
@@ -756,6 +758,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0101-symmetric-tree/) | Easy |
+| [0133-clone-graph](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0226-invert-binary-tree/) | Easy |
@@ -784,6 +787,7 @@
 | [0101-symmetric-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0133-clone-graph](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0695-max-area-of-island](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0695-max-area-of-island/) | Medium |
