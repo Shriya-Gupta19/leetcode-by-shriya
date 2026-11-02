@@ -83,6 +83,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0486-predict-the-winner/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0525-contiguous-array/) | Medium |
@@ -613,6 +614,7 @@
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0202-happy-number/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0877-stone-game/) | Medium |
@@ -695,6 +697,7 @@
 | [0088-merge-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0147-insertion-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0242-valid-anagram/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1288-remove-covered-intervals/) | Medium |
