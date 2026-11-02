@@ -25,17 +25,17 @@ public:
         if (node == NULL)
             return NULL;
         unordered_map<Node*, Node*> mp;
-        queue<Node*> q;
+        stack<Node*> st;
         Node* clone = new Node(node->val);
         mp[node] = clone;
-        q.push(node);
-        while (!q.empty()) {
-            Node* curr = q.front();
-            q.pop();
+        st.push(node);
+        while (!st.empty()) {
+            Node* curr = st.top();
+            st.pop();
             for (auto neighbour : curr->neighbors) {
                 if (mp.find(neighbour) == mp.end()) {
                     mp[neighbour] = new Node(neighbour->val);
-                    q.push(neighbour);
+                    st.push(neighbour);
                 }
                 mp[curr]->neighbors.push_back(mp[neighbour]);
             }
