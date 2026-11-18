@@ -334,6 +334,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
