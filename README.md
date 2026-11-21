@@ -178,6 +178,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -342,6 +343,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -494,6 +496,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -799,6 +802,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -884,6 +888,7 @@
 | [0337-house-robber-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0337-house-robber-iii/) | Medium |
 | [1377-frog-position-after-t-seconds](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1377-frog-position-after-t-seconds/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
