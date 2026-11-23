@@ -109,6 +109,7 @@
 | [1306-jump-game-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1345-jump-game-iv/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -530,6 +531,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -636,6 +638,7 @@
 | [0836-rectangle-overlap](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1510-stone-game-iv/) | Hard |
@@ -693,6 +696,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1622-fancy-sequence](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
@@ -1052,4 +1056,8 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
