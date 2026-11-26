@@ -382,6 +382,7 @@
 | [2751-robot-collisions](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -660,6 +661,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3360-stone-removal-game/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shriya-Gupta19/leetcode-by-shriya/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
